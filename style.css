@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://www.finam.ru/files//publications/1408792/4.jpg);
+     background-repeat: no-repeat;
+     background-size: 100%;
+     background-attachment: fixed;
+}
+div{
+    color: rgb(4, 102, 22);
+    text-shadow: 1px 1px 1px black;
+    font-size: 24px;
+    background-color: rgba(179, 179, 179, 0.516);
+    margin: 20px;
+    
+}
+.header1{
+    text-align: center;
+    border: 5px solid rgb(4, 102, 22);
+    border-radius: 30px;
+}
+img{
+    float: left;
+    margin-right: 10px;
+    box-shadow: 10px 10px 10px rgb(4, 102, 22);
+    border: 1px solid rgb(4, 102, 22);
+    border-radius: 10px;
+}
+
+.avto2{
+    float: right;
+}
+#card{
+    box-shadow: none;
+    margin-left: 50%;
+    margin-right:50%;
+}
