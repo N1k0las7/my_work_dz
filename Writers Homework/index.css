@@ -1,0 +1,54 @@
+header{
+    width: 900px;
+    height: 40px;
+    background-color: brown;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: auto;
+    position: fixed;
+}
+.a1{
+    display: inline-block;
+    color: white;
+    width: 100px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 7px;
+}
+.a1:hover{
+    background-color: rgba(104, 4, 4, 0.747);
+}
+section{
+    width: 900px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: auto;
+    
+}
+.b2{
+    width: 500px;
+    float: left;
+    background-color: rgba(204, 186, 168, 0.154);
+}
+.card{
+    width: 250px;
+    height: 700px;
+    float: right;
+    background-color: rgba(204, 186, 168, 0.223);
+}
+footer{
+    margin-top: 1000px;
+}
+.text1{
+    margin-left: 10%;
+}
+.card2{
+    width: 900px;
+    height: 300px;
+    margin-left: 10%;
+    border: solid black;
+}
+.card3{
+    padding: 30px;
+}
